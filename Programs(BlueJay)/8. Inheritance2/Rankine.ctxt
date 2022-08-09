@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rankine
+comment1.params=
+comment1.target=double\ RanToCel()
+comment2.params=
+comment2.target=double\ RanToFah()
+comment3.params=
+comment3.target=double\ RanToKel()
+numComments=4

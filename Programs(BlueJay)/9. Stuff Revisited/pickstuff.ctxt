@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=pickstuff
+comment0.text=\r\n\ This\ class\ allows\ th\ euser\ to\ create\ a\ class\r\n\ \r\n\ @author\ (Trevor\ and\ Tyler)\ \r\n\ @version\ (v1\ 5/23/14)\r\n
+comment1.params=
+comment1.target=void\ pickStats()
+comment2.params=
+comment2.target=void\ display1()
+numComments=3

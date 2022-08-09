@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileSaving
+comment1.params=strength\ defense\ magic\ finesse\ vigor
+comment1.target=void\ fileCreating(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ FileReading()
+numComments=3

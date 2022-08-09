@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Celsius
+comment1.params=
+comment1.target=double\ CelToFah()
+comment2.params=
+comment2.target=double\ CelToKel()
+comment3.params=
+comment3.target=double\ CelToRan()
+numComments=4

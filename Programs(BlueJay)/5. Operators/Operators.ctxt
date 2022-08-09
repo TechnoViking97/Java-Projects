@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=UserNum1\ UserNum2
+comment1.target=double\ SimpleMath1(double,\ double)
+comment2.params=UserNum1\ UserNum2
+comment2.target=double\ SimpleMath2(double,\ double)
+comment3.params=UserNum1\ UserNum2
+comment3.target=double\ SimpleMath3(double,\ double)
+comment4.params=UserNum1\ UserNum2
+comment4.target=double\ SimpleMath4(double,\ double)
+comment5.params=UserNum1\ UserNum2
+comment5.target=double\ SimpleMath5(double,\ double)
+comment6.params=UserNum1\ UserNum2
+comment6.target=double\ SimpleMath6(double,\ double)
+numComments=7

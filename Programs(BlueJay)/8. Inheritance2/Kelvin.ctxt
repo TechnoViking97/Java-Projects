@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kelvin
+comment1.params=
+comment1.target=double\ KelToCel()
+comment2.params=
+comment2.target=double\ KelToFah()
+comment3.params=
+comment3.target=double\ KelToRan()
+numComments=4
